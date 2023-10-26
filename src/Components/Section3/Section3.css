@@ -1,0 +1,11 @@
+.card-box h1 {
+    font-size: 25px;
+    text-align: center;
+    /* font-family: futura; */
+    padding-bottom: 20px;
+    padding-top: 2vh;
+}
+.card-box{
+    text-align: center;
+
+}

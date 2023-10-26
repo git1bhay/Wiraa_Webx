@@ -1,0 +1,23 @@
+.sec{
+    margin-top: 50px;
+    background-color: rgb(5, 5, 5);
+    
+}
+
+.subheader {
+    /* font-size: 3vh; */
+    margin-left: 50px;
+    font-size: 18px;
+    color: rgb(255, 255, 255);
+    background-color: rgba(12, 12, 12, 0.518); 
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    width: 410px;
+}
+
+.header {
+    font-size: 4vh;
+    font-weight: 600;
+    margin-left: 50px;
+}
